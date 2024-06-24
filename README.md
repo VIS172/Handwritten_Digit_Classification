@@ -1,6 +1,8 @@
+# Handwritten Digit Classification using ANN 
+
 ![1_AO2rIhzRYzFVQlFLx9DM9A](https://github.com/VIS172/Handwritten_Digit_Classification/assets/109724129/2a645865-3cc5-4db0-9b60-9a3da0c663b3)
 
-# Handwritten Digit Classification using ANN 
+
 
 This repository contains code for building and training an Artificial Neural Network (ANN) to classify handwritten digits from the MNIST dataset.
 
