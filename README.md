@@ -28,6 +28,8 @@ The model is a simple feedforward neural network with the following architecture
 
 ## Acknowledgments
   The MNIST dataset is provided by Yann LeCun and can be found at http://yann.lecun.com/exdb/mnist/.
+
+  
   This project is built using Keras and TensorFlow.
 
 You can install the required packages using pip:
